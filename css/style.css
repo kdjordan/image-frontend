@@ -68,7 +68,7 @@ button:hover {
 }
 
 .container__card {
-    /* border: 1px solid red; */
+    padding-bottom: 2rem;
     display: flex;
     justify-items: center;
     flex-direction: column;
