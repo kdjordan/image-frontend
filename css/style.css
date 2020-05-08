@@ -62,7 +62,7 @@ button:hover {
     padding: 2rem;
     border: 1px solid var(--dark-blu);
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
