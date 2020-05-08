@@ -5,7 +5,7 @@ Staticly Hosted in S3 bucket.
 
 #### How it works
 
-  - Vanilla JS grabs the value of the input box upon enter being clicked oor button submit
+  - Vanilla JS grabs the value of the input box upon enter being clicked or button submit
   - Creates a url string with the Image Filter EB endpoint 
   - calls window.open to fire the request 
   
