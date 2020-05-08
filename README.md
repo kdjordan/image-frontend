@@ -1,7 +1,7 @@
 ## Front End for Udacity Image Filter Project
 
-Simple HTML Interface that allows users to paste an image URL into an input and have that image filtered.
-Static Hosted in S3 bucket.
+Simple HTML Interface that allows users to paste an image URL into an input and have that image filtered.\
+Staticly Hosted in S3 bucket.
 
 #### How it works
 
