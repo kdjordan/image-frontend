@@ -10,3 +10,4 @@ Paste URL Function
   - calls window.open to fire the request 
   
 Upload Function
+http://image-filter-front.s3-website.us-east-2.amazonaws.com/

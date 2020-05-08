@@ -3,9 +3,9 @@
     let button = document.getElementById('btn')
     let fileUp = document.getElementById('fileUp')
 
-    fileUp.addEventListener('click', () => {
-        sendFile(url.value)
-    })
+    // fileUp.addEventListener('click', () => {
+    //     sendFile(url.value)
+    // })
 
     button.addEventListener('click', () => {
         sendFilterRequest(url.value)
@@ -21,8 +21,8 @@
         window.open('http://udacity-image-filter-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=' + urlValue)
     }
 
-    function sendFile() {
-        console.log(fileUp)
-    }
+    // function sendFile() {
+    //     console.log(fileUp)
+    // }
 
 })();
